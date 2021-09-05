@@ -1,4 +1,4 @@
-# ByteWalk
+# SocialNetwork
 A social media photo sharing website built on Django Framework.
 
 The features available to users :-
